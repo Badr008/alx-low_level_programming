@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_alphabet
- *
+ * print_alphabet - Check description
+ * Description: print the alphabets
  * Return: nothing
  */
 

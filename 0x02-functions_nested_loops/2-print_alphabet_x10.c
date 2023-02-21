@@ -2,7 +2,7 @@
 
 /*
  * print 10 alphabets
- *
+ * alphabets in lowercase
  * Return: nothing
  */
 
