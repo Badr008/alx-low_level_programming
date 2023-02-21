@@ -1,8 +1,8 @@
 #include "main.h"
 
 /*
- * print 10 alphabets
- * alphabets in lowercase
+ * print 10 alphabets - Check Description
+ * Description: alphabets in lowercase
  * Return: nothing
  */
 
