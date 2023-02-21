@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * print_alphabet_x10 - Check main
  * Description: uses _putchar to print
  * alphabets in lowercase
