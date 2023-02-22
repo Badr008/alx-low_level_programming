@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
+ * _islower - Entry point
+ * Description: Check if char is upper or lower
  * Return: 1 if lower case and 0 if upper
  */
 
