@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - Check main
+ * @c: input
  * Description: return 1 if letter
  * lower or upper
  * Return: 1 or 0

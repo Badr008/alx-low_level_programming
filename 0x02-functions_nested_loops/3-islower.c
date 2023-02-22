@@ -2,6 +2,7 @@
 
 /**
  * _islower - Entry point
+ * @c : input
  * Description: Check if char is upper or lower
  * Return: 1 if lower case and 0 if upper
  */
