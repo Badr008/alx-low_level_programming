@@ -3,11 +3,11 @@
 
 /**
  * print_remaining_days - takes a date and print
- * how many day left int the year
+ * how many day left int the year, taking leap
  * @month: month in number format
  * @day: day of month
  * @year: year
- * Return: Void
+ * Return: void
  */
 
 void print_remaining_days(int month, int day, int year)
