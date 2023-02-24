@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - function print numbers
- *
+ * followed by new line
  * Return: nothing
  */
 
